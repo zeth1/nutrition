@@ -1,0 +1,37 @@
+C:\Users\zeth kenneth pungtod\AppData\Local\Temporary Projects\Student Profiling and Health System\bin\Debug\Student Profiling and Health System.exe.config
+C:\Users\zeth kenneth pungtod\Desktop\Student Profiling and Health System\Student Profiling and Health System\bin\Debug\Student Profiling and Health System.exe.config
+C:\Users\zeth kenneth pungtod\Desktop\Student Profiling and Health System\Student Profiling and Health System\obj\Debug\Student Profiling and Health System.vbproj.ResolveComReference.cache
+C:\Users\zeth kenneth pungtod\Desktop\Student Profiling and Health System\Student Profiling and Health System\obj\Debug\Student_Profiling_and_Health_System.Resources.resources
+C:\Users\zeth kenneth pungtod\Desktop\Student Profiling and Health System\Student Profiling and Health System\obj\Debug\Student Profiling and Health System.vbproj.GenerateResource.Cache
+C:\Users\zeth kenneth pungtod\Desktop\Student Profiling and Health System\Student Profiling and Health System\bin\Debug\Student Profiling and Health System.exe
+C:\Users\zeth kenneth pungtod\Desktop\Student Profiling and Health System\Student Profiling and Health System\bin\Debug\Student Profiling and Health System.pdb
+C:\Users\zeth kenneth pungtod\Desktop\Student Profiling and Health System\Student Profiling and Health System\bin\Debug\Student Profiling and Health System.xml
+C:\Users\zeth kenneth pungtod\Desktop\Student Profiling and Health System\Student Profiling and Health System\obj\Debug\Student Profiling and Health System.exe
+C:\Users\zeth kenneth pungtod\Desktop\Student Profiling and Health System\Student Profiling and Health System\obj\Debug\Student Profiling and Health System.xml
+C:\Users\zeth kenneth pungtod\Desktop\Student Profiling and Health System\Student Profiling and Health System\obj\Debug\Student Profiling and Health System.pdb
+C:\Users\zeth kenneth pungtod\Desktop\Student Profiling and Health System\Student Profiling and Health System\obj\Debug\Student_Profiling_and_Health_System.Login.resources
+C:\Users\zeth kenneth pungtod\Desktop\Student Profiling and Health System\Student Profiling and Health System\obj\Debug\Student_Profiling_and_Health_System.Main.resources
+C:\Users\zeth kenneth pungtod\Desktop\Student Profiling and Health System\Student Profiling and Health System\obj\Debug\Student_Profiling_and_Health_System.StudentAdd.resources
+C:\Users\zeth kenneth pungtod\Desktop\Student Profiling and Health System\Student Profiling and Health System\obj\Debug\Student_Profiling_and_Health_System.Homepage.resources
+C:\Users\zeth kenneth pungtod\Desktop\Student Profiling and Health System\Student Profiling and Health System\obj\Debug\Student_Profiling_and_Health_System.BMIStatus.resources
+C:\Users\Damhar Pahalawan\Desktop\Student Profiling and Health System\Student Profiling and Health System\bin\Debug\Student Profiling and Health System.exe.config
+C:\Users\Damhar Pahalawan\Desktop\Student Profiling and Health System\Student Profiling and Health System\obj\Debug\Student Profiling and Health System.vbproj.ResolveComReference.cache
+C:\Users\Damhar Pahalawan\Desktop\Student Profiling and Health System\Student Profiling and Health System\obj\Debug\Student Profiling and Health System.exe
+C:\Users\Damhar Pahalawan\Desktop\Student Profiling and Health System\Student Profiling and Health System\obj\Debug\Student Profiling and Health System.xml
+C:\Users\Damhar Pahalawan\Desktop\Student Profiling and Health System\Student Profiling and Health System\obj\Debug\Student Profiling and Health System.pdb
+C:\Users\Damhar Pahalawan\Desktop\Student Profiling and Health System\Student Profiling and Health System\bin\Debug\Student Profiling and Health System.exe
+C:\Users\Damhar Pahalawan\Desktop\Student Profiling and Health System\Student Profiling and Health System\bin\Debug\Student Profiling and Health System.pdb
+C:\Users\Damhar Pahalawan\Desktop\Student Profiling and Health System\Student Profiling and Health System\bin\Debug\Student Profiling and Health System.xml
+C:\Users\Damhar Pahalawan\Desktop\Student Profiling and Health System\Student Profiling and Health System\obj\Debug\Student_Profiling_and_Health_System.BMIStatus.resources
+C:\Users\Damhar Pahalawan\Desktop\Student Profiling and Health System\Student Profiling and Health System\obj\Debug\Student_Profiling_and_Health_System.Homepage.resources
+C:\Users\Damhar Pahalawan\Desktop\Student Profiling and Health System\Student Profiling and Health System\obj\Debug\Student_Profiling_and_Health_System.Login.resources
+C:\Users\Damhar Pahalawan\Desktop\Student Profiling and Health System\Student Profiling and Health System\obj\Debug\Student_Profiling_and_Health_System.Main.resources
+C:\Users\Damhar Pahalawan\Desktop\Student Profiling and Health System\Student Profiling and Health System\obj\Debug\Student_Profiling_and_Health_System.Resources.resources
+C:\Users\Damhar Pahalawan\Desktop\Student Profiling and Health System\Student Profiling and Health System\obj\Debug\Student_Profiling_and_Health_System.StudentAdd.resources
+C:\Users\Damhar Pahalawan\Desktop\Student Profiling and Health System\Student Profiling and Health System\obj\Debug\Student Profiling and Health System.vbproj.GenerateResource.Cache
+C:\Users\Damhar Pahalawan\Desktop\Student Profiling and Health System\Student Profiling and Health System\obj\Debug\Student_Profiling_and_Health_System.AddProgram.resources
+C:\Users\Damhar Pahalawan\Desktop\Student Profiling and Health System\Student Profiling and Health System\obj\Debug\Student_Profiling_and_Health_System.SuitableProgram.resources
+C:\Users\Damhar Pahalawan\Desktop\Student Profiling and Health System\Student Profiling and Health System\obj\Debug\Student_Profiling_and_Health_System.Sponsor.resources
+C:\Users\Damhar Pahalawan\Desktop\Student Profiling and Health System\Student Profiling and Health System\obj\Debug\Student_Profiling_and_Health_System.AddPartner.resources
+C:\Users\Damhar Pahalawan\Desktop\Student Profiling and Health System\Student Profiling and Health System\obj\Debug\Student_Profiling_and_Health_System.Form2.resources
+C:\Users\Damhar Pahalawan\Desktop\Student Profiling and Health System\Student Profiling and Health System\obj\Debug\Student_Profiling_and_Health_System.Form3.resources
